@@ -4,6 +4,9 @@ This project is meant to introduce VMware technologies and go over a design scen
 
 This GitHub project centralizes information for VMW Tech Webcasts. This location tracks the upcoming schedule and centralizes resources related to existing talks.
 
+To sign up for the live recordings, register here:
+
+https://vmware.zoom.us/webinar/register/WN_bTE89guES4uGia9YCdHkuw
 
 ## What's the structure of a VMW Tech Webcast?
 
@@ -25,12 +28,12 @@ A topic will be covered on two 1-hour sessions:
     
 | Session       | Presenter(s)          | Language |  Date |
 | ------------- |:-------------:| -----:| :-----:|
-| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 15th 2021 |
-| VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 22th 2021 |
-| VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  April 29th 2021 |
-| VMware Site Recovery Mamager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  TBD |
+| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 21st 2021 |
+| VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 29th 2021 |
+| VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  May 6th 2021 |
+| VMware Site Recovery Mamager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  May 13th 2021 |
    
-## How can i present a Topic on the VMW Tech Webcasts?
+## How can I present a Topic on the VMW Tech Webcasts?
     
 You will need to meet the following pre-requisites:
 
