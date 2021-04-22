@@ -2,7 +2,7 @@
 
 Este proyecto se enfoca en introducir tecnologías de VMware y presentar escenarios de diseño usando esas tecnologías para resolver los problemas que puedes encontrar en el mundo real. Las sesiones pueden cubrir múltiples temas y producirse en muchos idiomas. 
 
-Este Proyecto de GitHub es el centro de información para los VMW Tech Webcasts. Aquí puedes encontrar el calendario de próximas sesiones y los recursos relacionados con todas las sesiones.
+Este proyecto de GitHub es el centro de información para los VMW Tech Webcasts. Aquí puedes encontrar el calendario de próximas sesiones y los recursos relacionados con todas las sesiones.
 
 Se puedes registrar para la próxima sesión aquí: 
 
