@@ -28,7 +28,6 @@ Cada tema se va a cubrir en dos sesiones de una hora:
     
 | Sesión       | Presentador(es)          | Idioma |  Fecha | Hora | 
 | ------------- |:-------------:| :-----:| :-----:| :-----:| 
-| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | Ingles | 21 de Abril de 2021 | 9 PM EST |
 | VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | 29 de Abril de 2021 | TBD | 
 | VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  Ingles  | 6 de Mayo de 2021 | TBD |
 | VMware Site Recovery Manager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  13 de Mayo de 2021 | TBD |
@@ -42,3 +41,9 @@ Tienes que satisfacer los siguientes prerrequisitos:
     • Ya tienes la agenda y los objetivos de la sesión
 
 Si puedes satisfacer estos prerrequisitos, contáctanos a techwebcastslatam[at]vmware.com para programar tu sesión.
+
+## Sesiones Pasadas
+    
+| Sesión       | Presentador(es)          | Idioma |  Fecha | Hora | 
+| ------------- |:-------------:| :-----:| :-----:| :-----:| 
+| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | Ingles | 21 de Abril de 2021 | 9 PM EST |
