@@ -47,4 +47,4 @@ Once you cover these pre-requisites reach us at techwebcastslatam[at]vmware.com 
     
 | Session       | Presenter(s)          | Language |  Date | Time | 
 | ------------- |:-------------:| :-----:| :-----:| :-----:| 
-| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 21st 2021 | 9 PM EST |
+| [VMware Site Recovery Manager - v8.4 Technical Review](https://github.com/VMware-Tech-Webcasts/info/blob/main/Presentation%20files/Techwebcast%2001%20-%20Site%20Recovery%20Manager%20v8.4.pptx) | [Ariel Sanchez](https://twitter.com/arielsanchezmor) | English | April 21st 2021 | 9 PM EST |
