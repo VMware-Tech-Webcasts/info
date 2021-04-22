@@ -26,12 +26,12 @@ A topic will be covered on two 1-hour sessions:
     
 ## Upcoming Sessions
     
-| Session       | Presenter(s)          | Language |  Date |
+| Session       | Presenter(s)          | Language |  Date | Time | 
 | ------------- |:-------------:| -----:| :-----:|
-| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 21st 2021 |
-| VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 29th 2021 |
-| VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  May 6th 2021 |
-| VMware Site Recovery Mamager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  May 13th 2021 |
+| VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 21st 2021 | 9 PM EST |
+| VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 29th 2021 | TBD | 
+| VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  May 6th 2021 | TBD |
+| VMware Site Recovery Manager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  May 13th 2021 | TBD |
    
 ## How can I present a Topic on the VMW Tech Webcasts?
     
