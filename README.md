@@ -26,8 +26,8 @@ A topic will be covered on two 1-hour sessions:
     
 ## Upcoming Sessions
     
-| Session       | Presenter(s)          | Language |  Date | Time | 
-| ------------- |:-------------:| :-----:| :-----:| :-----:| 
+| Session         | Presenter(s)  | Language |  Date | Time | 
+| :-------------: |:-------------:| :-------:| :----:| :----:| 
 | VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 29th 2021 | TBD | 
 | VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  May 6th 2021 | TBD |
 | VMware Site Recovery Manager - v8.4 Escenarios de Diseño| Ariel Sanchez / Agustín Malanco | Español |  May 13th 2021 | TBD |
@@ -45,6 +45,6 @@ Once you cover these pre-requisites reach us at techwebcastslatam[at]vmware.com 
 
 ## Past Sessions
     
-| Session video |  Session files     | Presenter(s)          | Language |  Date | Time | 
-| ------------- |:-------------:| :-------------:| :-----:| :-----:| :-----:| 
-| [VMware Site Recovery Manager - v8.4 Technical Review](https://www.youtube.com/watch?v=kHnejoB9zT8) | [VMware Site Recovery Manager - v8.4 Technical Review](https://github.com/VMware-Tech-Webcasts/info/blob/main/Presentation%20files/Techwebcast%2001%20-%20Site%20Recovery%20Manager%20v8.4.pptx?raw=true) |  [Ariel Sanchez](https://twitter.com/arielsanchezmor) | English | April 21st 2021 | 9 PM EST |
+|  Date   | Session video   |  Session files     | Presenter(s)  | Language |
+| :-----: |:---------------:|:------------------:|:-------------:| :-----:| 
+| April 21st 2021 | [VMware Site Recovery Manager - v8.4 Technical Review](https://www.youtube.com/watch?v=kHnejoB9zT8) | [VMware Site Recovery Manager - v8.4 Technical Review](https://github.com/VMware-Tech-Webcasts/info/blob/main/Presentation%20files/Techwebcast%2001%20-%20Site%20Recovery%20Manager%20v8.4.pptx?raw=true) |  [Ariel Sanchez](https://twitter.com/arielsanchezmor) | English |
