@@ -27,7 +27,7 @@ A topic will be covered on two 1-hour sessions:
 ## Upcoming Sessions
     
 | Session       | Presenter(s)          | Language |  Date | Time | 
-| ------------- |:-------------:| -----:| :-----:|
+| ------------- |:-------------:| -----:| :-----:| :-----:| 
 | VMware Site Recovery Manager - v8.4 Technical Review | Ariel Sanchez | English | April 21st 2021 | 9 PM EST |
 | VMware Site Recovery Manager - v8.4 Repaso Técnico | Ariel Sanchez      | Español | April 29th 2021 | TBD | 
 | VMware Site Recovery Manager - v8.4 Design Scenarios | Ariel Sanchez / Agustín Malanco     |  English  |  May 6th 2021 | TBD |
