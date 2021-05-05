@@ -1,5 +1,7 @@
 # What is VMW Tech Webcasts?
 
+_for Spanish please [click here](https://github.com/VMware-Tech-Webcasts/info/blob/main/README-ESP.md)_
+
 This project is meant to introduce VMware technologies and go over a design scenario using those technologies to solve real world problems. Talks can cover multiple topics and in many languages. 
 
 This GitHub project centralizes information for VMW Tech Webcasts. This location tracks the upcoming schedule and centralizes resources related to existing talks.
